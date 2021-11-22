@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "itz-url-shortener"
+  },
+  "targets": {
+    "itz-url-shortener": {
+      "hosting": {
+        "url-shortener": [
+          "itz-url-shortener"
+        ]
+      }
+    }
+  }
+}
